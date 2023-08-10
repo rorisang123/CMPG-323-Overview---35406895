@@ -10,7 +10,7 @@ Project 5:
 
 ## CI/CD in this project
 The picture below illustrates the basic structure of this project's CI/CD pipeline.
-<img width="80px" src="./img/cicd.png" alt="CI/CD image" />
+<img width="80px" src="./cicd.png" alt="CI/CD image" />
 
 ## Branching strategy
 The repo will have the main branch with restricted priviliges and contains the latest stable release. A second branch, dev, will be created for ongoing development. These are the only two branches the project will have in the spirit of keeping it simple given that there'll only be a single programmer and the scope of the app is small.
