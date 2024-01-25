@@ -1,4 +1,4 @@
-# CMPG 323 Overview - 35406895
+# EcoPower Logistics Overview - 35406895
 
 ## Structure
 This repo will house all the other 5 projects and they'll each be assigned their own GitHub projects. Development will be tracked using the branching strategy below.
